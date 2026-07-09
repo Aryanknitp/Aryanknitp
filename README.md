@@ -60,15 +60,11 @@ Computer Science Student • Competitive Programmer • AI/ML Enthusiast • Ful
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 
 </p>
 
