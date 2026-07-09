@@ -5,7 +5,7 @@ Computer Science Student • Competitive Programmer • AI/ML Enthusiast • Ful
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+NIT+Patna;3500%2B+LeetCode+Problems+Solved;Competitive+Programmer;AI%2FML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+NIT+Patna;450%2B+LeetCode+Problems+Solved;Competitive+Programmer;AI%2FML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
